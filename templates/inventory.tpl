@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Homie devices</title>
+  <title>OpenConnect devices</title>
   <meta http-equiv="refresh" content="60" />
 
   <link rel="stylesheet" href="styles.css">
@@ -10,10 +10,10 @@
   <script type="text/javascript" src="jquery.pBar.min.js"></script>
 </head>
 <body>
-<h2>Homie device inventory</h2>
+<h2>OpenConnect device inventory</h2>
 
 <p>
-[<a href="/firmware">Homie device firmware</a>] [<a href="/log">Log</a>]
+[<a href="/firmware">OpenConnect device firmware</a>] [<a href="/log">Log</a>]
 </p>
 
 <h3>Registered devices</h3>
