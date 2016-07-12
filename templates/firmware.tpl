@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Homie firmware</title>
+  <title>OpenConnect firmware</title>
   <meta http-equiv="refresh" content="60" />
   <script type="text/javascript" src="jquery.min.js"></script>
   <link rel="stylesheet" href="styles.css">
   </head>
 <body>
-<h2>Homie device firmware</h2>
+<h2>OpenConnect device firmware</h2>
 
 <p>
-[<a href="/">Homie device inventory</a>] [<a href="/log">Log</a>]
+[<a href="/">OpenConnect device inventory</a>] [<a href="/log">Log</a>]
 </p>
 
 <h3>Existing Firmware</h3>
