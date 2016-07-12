@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Homie device - {{device}}</title>
+  <title>OpenConnect device - {{device}}</title>
   <meta http-equiv="refresh" content="60" />
 
   <link rel="stylesheet" href="/styles.css">
   </head>
 <body>
-<h2>Homie device details</h2>
+<h2>OpenConnect device details</h2>
 
 <p>
-[<a href="/">Homie device inventory</a>] [<a href="/log">Log</a>]
+[<a href="/">OpenConnect device inventory</a>] [<a href="/log">Log</a>]
 </p>
 
 <h3>Details for device {{device}}</h3>
